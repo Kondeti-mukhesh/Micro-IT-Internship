@@ -1,0 +1,502 @@
+[
+    {
+        "question": "What is the correct file extension for Python files?",
+        "options": {
+            "A": ".pt",
+            "B": ".pyt",
+            "C": ".py",
+            "D": ".python"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "What is the output of print(2 ** 3)?",
+        "options": {
+            "A": "6",
+            "B": "8",
+            "C": "9",
+            "D": "Error"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Which method can be used to remove any whitespace from both ends of a string?",
+        "options": {
+            "A": "strip()",
+            "B": "trim()",
+            "C": "len()",
+            "D": "remove()"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "How do you insert COMMENTS in Python code?",
+        "options": {
+            "A": "// this is a comment",
+            "B": "# this is a comment",
+            "C": "/* this is a comment */",
+            "D": "-- this is a comment"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Which keyword is used to create a class in Python?",
+        "options": {
+            "A": "function",
+            "B": "class",
+            "C": "def",
+            "D": "object"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Which operator is used for floor division?",
+        "options": {
+            "A": "/",
+            "B": "%",
+            "C": "//",
+            "D": "**"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Which data structure does not allow duplicate elements?",
+        "options": {
+            "A": "List",
+            "B": "Tuple",
+            "C": "Dictionary",
+            "D": "Set"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "What is the keyword to define a function in Python?",
+        "options": {
+            "A": "func",
+            "B": "function",
+            "C": "def",
+            "D": "define"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "How do you create a variable with the numeric value 5?",
+        "options": {
+            "A": "x = int(5)",
+            "B": "x = 5",
+            "C": "x = float(5)",
+            "D": "All of the above"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Which of these is a loop structure in Python?",
+        "options": {
+            "A": "for",
+            "B": "do-while",
+            "C": "foreach",
+            "D": "repeat"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the output of bool(0)?",
+        "options": {
+            "A": "True",
+            "B": "False",
+            "C": "0",
+            "D": "None"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "What is the result of 3 > 2 and 2 > 1?",
+        "options": {
+            "A": "True",
+            "B": "False",
+            "C": "Error",
+            "D": "None"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Which function is used to get user input in Python 3?",
+        "options": {
+            "A": "cin",
+            "B": "gets()",
+            "C": "input()",
+            "D": "scan()"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "How do you start a multiline comment in Python?",
+        "options": {
+            "A": "//",
+            "B": "/*",
+            "C": "'''",
+            "D": "!!"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Which collection is ordered and changeable?",
+        "options": {
+            "A": "Tuple",
+            "B": "List",
+            "C": "Set",
+            "D": "FrozenSet"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "What will be the output of print(10 % 3)?",
+        "options": {
+            "A": "1",
+            "B": "3",
+            "C": "0",
+            "D": "10"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Which of the following is used to define a block of code in Python?",
+        "options": {
+            "A": "{}",
+            "B": "()",
+            "C": ":",
+            "D": "Indentation"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "What is the output of print('5' + '5')?",
+        "options": {
+            "A": "10",
+            "B": "55",
+            "C": "Error",
+            "D": "None"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Which function converts a string to a number in Python?",
+        "options": {
+            "A": "str()",
+            "B": "float()",
+            "C": "int()",
+            "D": "Both B and C"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Which keyword is used for exception handling in Python?",
+        "options": {
+            "A": "try",
+            "B": "except",
+            "C": "finally",
+            "D": "All of the above"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "What is the result of 10 != 10?",
+        "options": {
+            "A": "True",
+            "B": "False",
+            "C": "Error",
+            "D": "None"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Which keyword is used to exit a loop in Python?",
+        "options": {
+            "A": "exit",
+            "B": "quit",
+            "C": "stop",
+            "D": "break"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Which operator is used to check equality in Python?",
+        "options": {
+            "A": "=",
+            "B": "==",
+            "C": "!=",
+            "D": "==="
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Which keyword is used to start a loop in Python?",
+        "options": {
+            "A": "loop",
+            "B": "for",
+            "C": "iterate",
+            "D": "do"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "What will be the output of len('Python')?",
+        "options": {
+            "A": "6",
+            "B": "5",
+            "C": "7",
+            "D": "Error"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the output of print(25 + 25)?",
+        "options": {
+            "A": "50",
+            "B": "26",
+            "C": "24",
+            "D": "Error"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the output of print(26 + 26)?",
+        "options": {
+            "A": "52",
+            "B": "27",
+            "C": "25",
+            "D": "Error"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the output of print(27 + 27)?",
+        "options": {
+            "A": "54",
+            "B": "28",
+            "C": "26",
+            "D": "Error"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the output of print(28 + 28)?",
+        "options": {
+            "A": "56",
+            "B": "29",
+            "C": "27",
+            "D": "Error"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the output of print(29 + 29)?",
+        "options": {
+            "A": "58",
+            "B": "30",
+            "C": "28",
+            "D": "Error"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the output of print(30 + 30)?",
+        "options": {
+            "A": "60",
+            "B": "31",
+            "C": "29",
+            "D": "Error"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the output of print(31 + 31)?",
+        "options": {
+            "A": "62",
+            "B": "32",
+            "C": "30",
+            "D": "Error"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the output of print(32 + 32)?",
+        "options": {
+            "A": "64",
+            "B": "33",
+            "C": "31",
+            "D": "Error"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the output of print(33 + 33)?",
+        "options": {
+            "A": "66",
+            "B": "34",
+            "C": "32",
+            "D": "Error"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the output of print(34 + 34)?",
+        "options": {
+            "A": "68",
+            "B": "35",
+            "C": "33",
+            "D": "Error"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the output of print(35 + 35)?",
+        "options": {
+            "A": "70",
+            "B": "36",
+            "C": "34",
+            "D": "Error"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the output of print(36 + 36)?",
+        "options": {
+            "A": "72",
+            "B": "37",
+            "C": "35",
+            "D": "Error"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the output of print(37 + 37)?",
+        "options": {
+            "A": "74",
+            "B": "38",
+            "C": "36",
+            "D": "Error"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the output of print(38 + 38)?",
+        "options": {
+            "A": "76",
+            "B": "39",
+            "C": "37",
+            "D": "Error"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the output of print(39 + 39)?",
+        "options": {
+            "A": "78",
+            "B": "40",
+            "C": "38",
+            "D": "Error"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the output of print(40 + 40)?",
+        "options": {
+            "A": "80",
+            "B": "41",
+            "C": "39",
+            "D": "Error"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the output of print(41 + 41)?",
+        "options": {
+            "A": "82",
+            "B": "42",
+            "C": "40",
+            "D": "Error"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the output of print(42 + 42)?",
+        "options": {
+            "A": "84",
+            "B": "43",
+            "C": "41",
+            "D": "Error"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the output of print(43 + 43)?",
+        "options": {
+            "A": "86",
+            "B": "44",
+            "C": "42",
+            "D": "Error"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the output of print(44 + 44)?",
+        "options": {
+            "A": "88",
+            "B": "45",
+            "C": "43",
+            "D": "Error"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the output of print(45 + 45)?",
+        "options": {
+            "A": "90",
+            "B": "46",
+            "C": "44",
+            "D": "Error"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the output of print(46 + 46)?",
+        "options": {
+            "A": "92",
+            "B": "47",
+            "C": "45",
+            "D": "Error"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the output of print(47 + 47)?",
+        "options": {
+            "A": "94",
+            "B": "48",
+            "C": "46",
+            "D": "Error"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the output of print(48 + 48)?",
+        "options": {
+            "A": "96",
+            "B": "49",
+            "C": "47",
+            "D": "Error"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "What is the output of print(49 + 49)?",
+        "options": {
+            "A": "98",
+            "B": "50",
+            "C": "48",
+            "D": "Error"
+        },
+        "answer": "A"
+    }
+]
